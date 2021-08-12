@@ -1,6 +1,5 @@
 #import <UIKit/UIKit.h>
-
-@class MDCFilledTextField
+#import "MDCFilledTextField.h"
 
 @interface MDCFilledTextFieldNoSelection : MDCFilledTextField
 
