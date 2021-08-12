@@ -13,3 +13,4 @@
 // limitations under the License.
 
 #import "MDCFilledTextField.h"
+#import "MDCFilledTextFieldNoSelection.h"

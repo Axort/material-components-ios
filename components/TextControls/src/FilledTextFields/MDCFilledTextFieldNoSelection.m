@@ -1,10 +1,9 @@
 #import <UIKit/UIKit.h>
-#import "MDCFilledTextField.h"
 
-@interface MDCTextFieldNoSelection ()
+@interface MDCFilledTextFieldNoSelection ()
 @end
 
-@implementation MDCTextFieldNoSelection
+@implementation MDCFilledTextFieldNoSelection
 - (CGRect)caretRectForPosition:(UITextPosition*) position {
     return CGRectZero;
 }
